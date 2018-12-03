@@ -396,47 +396,25 @@ var data =
                           "note": "2nd semester (required)"
                         } // End of Course WEB222
                         ,
-                        { // Start of Course WTP100
-                          "code": "WTP100",
-                          "name": "Co-op Work Tearm Preparation",
-                          "sectionList":
-                            [ // Start of Section List
-                              { // Start of Section CPAC
-                                "code": "CPAC",
-                                "teacher": "Maria Saith (N/A)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
-                                    }
-                                  ],
-                                "color": "#220000"
-                              } // End of Section CPD/CPA
-                            ],
-                          "note": "3rd semester (required for CPA)"
-                        } // End of Course WTP100
-                        ,
                         { // Start of Course DBS301
-                          "code": "DBS301",
-                          "name": "Database Design II, SQL Using Oracle",
+                          "code": "JAC444",
+                          "name": "Java for Progz",
                           "sectionList":
                             [ // Start of Section List
                               { // Start of Section SAA 
                                 "code": "SAA",
-                                "teacher": "Ronald Tarr (4.1 / 106)",
+                                "teacher": "Mahboob Ali (4.1 / 106)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Friday",
+                                      "dayOfWeek": "Wednesday",
                                       "startTime": "13:30",
                                       "endTime": "15:15"
                                     },
                                     {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
+                                      "dayOfWeek": "Friday",
+                                      "startTime": "13:30",
+                                      "endTime": "15:15"
                                     }
                                   ],
                                 "color": "#0061ff"
@@ -444,18 +422,18 @@ var data =
                               ,
                               { // Start of Section SBB
                                 "code": "SBB",
-                                "teacher": "Ronald Tarr (4.1 / 106)",
+                                "teacher": "Mahboob Ali (4.1 / 106)",
                                 "classList":
                                   [
                                     {
                                       "dayOfWeek": "Wednesday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
+                                      "startTime": "13:30",
+                                      "endTime": "15:15"
                                     },
                                     {
                                       "dayOfWeek": "Friday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
+                                      "startTime": "15:20",
+                                      "endTime": "17:05"
                                     }
                                   ],
                                 "color": "#054bbc"
@@ -463,18 +441,18 @@ var data =
                               ,
                               { // Start of Section SCC
                                 "code": "SCC",
-                                "teacher": "Ronald Tarr (4.1 / 106)",
+                                "teacher": "Mahboob Ali (4.1 / 106)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
+                                      "dayOfWeek": "Monday",
+                                      "startTime": "15:20",
+                                      "endTime": "17:05"
                                     },
                                     {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
+                                      "dayOfWeek": "Wednesday",
+                                      "startTime": "17:10",
+                                      "endTime": "18:55"
                                     }
                                   ],
                                 "color": "#033482"
@@ -482,18 +460,18 @@ var data =
                               ,
                               { // Start of Section SDD
                                 "code": "SDD",
-                                "teacher": "Nebojsa Conkic (2.9 / 70)",
+                                "teacher": "Mohammadreza Khojasteh (4.1 / 106)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
+                                      "dayOfWeek": "Tuesday",
+                                      "startTime": "15:20",
+                                      "endTime": "17:05"
                                     },
                                     {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
+                                      "dayOfWeek": "Thursday",
+                                      "startTime": "15:20",
+                                      "endTime": "17:05"
                                     }
                                   ],
                                 "color": "#04275e"
@@ -501,18 +479,18 @@ var data =
                               ,
                               { // Start of Section SEE
                                 "code": "SEE",
-                                "teacher": "Nebojsa Conkic (2.9 / 70)",
+                                "teacher": "Mohammadreza Khojasteh (4.1 / 106)",
                                 "classList":
                                   [
                                     {
                                       "dayOfWeek": "Monday",
-                                      "startTime": "11:40",
-                                      "endTime": "11:35"
+                                      "startTime": "15:20",
+                                      "endTime": "17:05"
                                     },
                                     {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
+                                      "dayOfWeek": "Thursday",
+                                      "startTime": "17:10",
+                                      "endTime": "18:55"
                                     }
                                   ],
                                 "color": "#042733"
