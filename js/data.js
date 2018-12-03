@@ -236,19 +236,19 @@ var data =
                         } // End of Course DCF255
                         ,
                         { // Start of Course OOP244
-                          "code": "OOP244",
-                          "name": "Introduction to Object Oriented Programming",
+                          "code": "DSA555",
+                          "name": "Data Structures",
                           "sectionList":
                             [ // Start of Section List
                               { // Start of Section SAA
                                 "code": "SAA",
-                                "teacher": "Christopher Szalwinski (4.1 / 34)",
+                                "teacher": "Cathy Leung (4.1 / 34)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "15:20",
-                                      "endTime": "17:05"
+                                      "dayOfWeek": "Tuesday",
+                                      "startTime": "11:40",
+                                      "endTime": "13:25"
                                     },
                                     {
                                       "dayOfWeek": "Thursday",
@@ -258,181 +258,24 @@ var data =
                                   ],
                                 "color": "#db3d3d"
                               } // End of Section SAA
-                              ,
-                              { // Start of Section SBB
-                                "code": "SBB",
-                                "teacher": "Christopher Szalwinski (4.1 / 34)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Thursday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
-                                    },
-                                    {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
-                                    }
-                                  ],
-                                "color": "#8c1c1c"
-                              } // End of Section SBB
-                              ,
-                              { // Start of Section SCC
-                                "code": "SCC",
-                                "teacher": "Md. Nour Hossain (N/A)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "08:00",
-                                      "endTime": "09:45"
-                                    },
-                                    {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    }
-                                  ],
-                                "color": "#e20404"
-                              } // End of Section SCC
-                              ,
-                              { // Start of Section SDD
-                                "code": "SDD",
-                                "teacher": "Md. Nour Hossain (N/A)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    },
-                                    {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
-                                    }
-                                  ],
-                                "color": "#770303"
-                              } // End of Section SDD
-                              ,
-                              { // Start of Section SEE
-                                "code": "SEE",
-                                "teacher": "Peter Liu (4.2 / 81)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "15:20",
-                                      "endTime": "17:05"
-                                    },
-                                    {
-                                      "dayOfWeek": "Thursday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    }
-                                  ],
-                                "color": "#440303"
-                              } // End of Section SEE
-                              ,
-                              { // Start of Section SFF
-                                "code": "SFF",
-                                "teacher": "Peter Liu (4.2 / 81)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Thursday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    },
-                                    {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "15:20",
-                                      "endTime": "17:05"
-                                    }
-                                  ],
-                                "color": "#034455"
-                              } // End of Section SFF
-                              ,
-                              { // Start of Section SGG
-                                "code": "SGG",
-                                "teacher": "Cornel Barna (4.4 / 7)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    },
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
-                                    }
-                                  ],
-                                "color": "#550303"
-                              } // End of Section SGG
-                              ,
-                              { // Start of Section SHH
-                                "code": "SHH",
-                                "teacher": "Tamanna Chhabra (N/A)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
-                                    },
-                                    {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
-                                    }
-                                  ],
-                                "color": "#51a519"
-                              } // End of Section SHH
-                              ,
-                              { // Start of Section SII
-                                "code": "SII",
-                                "teacher": "Md. Nour Hossain (N/A)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
-                                    },
-                                    {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
-                                    }
-                                  ],
-                                "color": "#21a5a5"
-                              } // End of Section SII
                             ], // End of Section List
                           "note": "2nd semester (required)"
                         } // End of Course OOP244
                         ,
                         { // Start of Course WEB222
-                          "code": "WEB222",
-                          "name": "Web Programming Principles",
+                          "code": "EAC397",
+                          "name": "English Report Writing",
                           "sectionList":
                             [ // Start of Section List
                               { // Start of Section SAA
                                 "code": "SAA",
-                                "teacher": "Tanvir Alam (4.0 / 29)",
+                                "teacher": "Denise Chilton (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Thursday",
+                                      "dayOfWeek": "Monday",
                                       "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    },
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "15:20",
-                                      "endTime": "17:05"
+                                      "endTime": "12:30"
                                     }
                                   ],
                                 "color": "#919929"
@@ -440,18 +283,13 @@ var data =
                               ,
                               { // Start of Section SBB
                                 "code": "SBB",
-                                "teacher": "Tanvir Alam (4.0 / 29)",
+                                "teacher": "Denise Chilton (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Thursday",
-                                      "startTime": "08:00",
-                                      "endTime": "09:45"
-                                    },
-                                    {
                                       "dayOfWeek": "Tuesday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
+                                      "startTime": "14:25",
+                                      "endTime": "17:05"
                                     }
                                   ],
                                 "color": "#257f0e"
@@ -459,18 +297,13 @@ var data =
                               ,
                               { // Start of Section SCC
                                 "code": "SCC",
-                                "teacher": "Tanvir Alam (4.0 / 29)",
+                                "teacher": "John Slater (4.0 / 29)",
                                 "classList":
                                   [
                                     {
                                       "dayOfWeek": "Thursday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
-                                    },
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
+                                      "startTime": "14:25",
+                                      "endTime": "17:05"
                                     }
                                   ],
                                 "color": "#aebc00"
@@ -478,18 +311,13 @@ var data =
                               ,
                               { // Start of Section SDD
                                 "code": "SDD",
-                                "teacher": "Christopher Markieta (4.7 / 19)",
+                                "teacher": "Denise Chilton (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
-                                    },
-                                    {
                                       "dayOfWeek": "Wednesday",
-                                      "startTime": "08:00",
-                                      "endTime": "09:45"
+                                      "startTime": "15:20",
+                                      "endTime": "18:00"
                                     }
                                   ],
                                 "color": "#494f02"
@@ -497,18 +325,13 @@ var data =
                               ,
                               { // Start of Section SEE
                                 "code": "SEE",
-                                "teacher": "Sharmin Ahmed (N/A)",
+                                "teacher": "Elpida (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "08:00",
-                                      "endTime": "09:45"
-                                    },
-                                    {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "11:40",
-                                      "endTime": "13:25"
+                                      "dayOfWeek": "Wednesday",
+                                      "startTime": "16:15",
+                                      "endTime": "18:55"
                                     }
                                   ],
                                 "color": "#497f62"
@@ -516,18 +339,13 @@ var data =
                               ,
                               { // Start of Section SFF
                                 "code": "SFF",
-                                "teacher": "Sharmin Ahmed (N/A)",
+                                "teacher": "Elpida (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    },
-                                    {
                                       "dayOfWeek": "Friday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
+                                      "startTime": "14:25",
+                                      "endTime": "17:05"
                                     }
                                   ],
                                 "color": "#7f6249"
@@ -535,18 +353,13 @@ var data =
                               ,
                               { // Start of Section SGG
                                 "code": "SGG",
-                                "teacher": "Christopher Markieta (4.7 / 19)",
+                                "teacher": "Elpida (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Thursday",
-                                      "startTime": "08:00",
-                                      "endTime": "09:45"
-                                    },
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "08:00",
-                                      "endTime": "09:45"
+                                      "dayOfWeek": "Wednesday",
+                                      "startTime": "13:30",
+                                      "endTime": "16:10"
                                     }
                                   ],
                                 "color": "#62497f"
@@ -554,18 +367,13 @@ var data =
                               ,
                               { // Start of Section SHH
                                 "code": "SHH",
-                                "teacher": "Yue Shi (N/A)",
+                                "teacher": "Michelle Duhaney (4.0 / 29)",
                                 "classList":
                                   [
                                     {
                                       "dayOfWeek": "Wednesday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
-                                    },
-                                    {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "15:20",
-                                      "endTime": "17:05"
+                                      "startTime": "13:30",
+                                      "endTime": "16:10"
                                     }
                                   ],
                                 "color": "#872529"
@@ -573,18 +381,13 @@ var data =
                               ,
                               { // Start of Section SII
                                 "code": "SII",
-                                "teacher": "Yue Shi (N/A)",
+                                "teacher": "Michelle Duhaney (4.0 / 29)",
                                 "classList":
                                   [
                                     {
-                                      "dayOfWeek": "Friday",
-                                      "startTime": "13:30",
-                                      "endTime": "15:15"
-                                    },
-                                    {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "09:50",
-                                      "endTime": "11:35"
+                                      "dayOfWeek": "Wednesday",
+                                      "startTime": "16:15",
+                                      "endTime": "18:55"
                                     }
                                   ],
                                 "color": "#3f4588"
