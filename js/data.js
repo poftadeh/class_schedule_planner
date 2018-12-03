@@ -184,7 +184,7 @@ var data =
                                     }
                                     ,
                                     {
-                                      "dayOfWeek": "Thusday",
+                                      "dayOfWeek": "Thursday",
                                       "startTime": "15:20",
                                       "endTime": "17:05"
                                     }
@@ -204,7 +204,7 @@ var data =
                                     }
                                     ,
                                     {
-                                      "dayOfWeek": "Thusday",
+                                      "dayOfWeek": "Thursday",
                                       "startTime": "17:10",
                                       "endTime": "18:55"
                                     }
@@ -224,69 +224,13 @@ var data =
                                     }
                                     ,
                                     {
-                                      "dayOfWeek": "Thusday",
+                                      "dayOfWeek": "Thursday",
                                       "startTime": "13:30",
                                       "endTime": "15:15"
                                     }
                                   ],
                                 "color": "#002200"
                               } // End of Section SEE
-                              ,
-                              { // Start of Section SFF
-                                "code": "SFF",
-                                "teacher": "Danny Roy (4.1 / 30)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Thursday",
-                                      "startTime": "11:40",
-                                      "endTime": "14:20"
-                                    }
-                                  ],
-                                "color": "#002244"
-                              } // End of Section SFF
-                              ,
-                              { // Start of Section SGG
-                                "code": "SGG",
-                                "teacher": "Kifah Al-Ansari (2.7 / 4)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Monday",
-                                      "startTime": "08:55",
-                                      "endTime": "11:35"
-                                    }
-                                  ],
-                                "color": "#234433"
-                              } // End of Section SGG
-                              ,
-                              { // Start of Section SHH
-                                "code": "SHH",
-                                "teacher": "Kifah Al-Ansari (2.7 / 4)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Wednesday",
-                                      "startTime": "14:25",
-                                      "endTime": "17:05"
-                                    }
-                                  ],
-                                "color": "#662248"
-                              } // End of Section SHH
-                              ,
-                              { // Start of Section SII
-                                "code": "SII",
-                                "teacher": "Kifah Al-Ansari (2.7 / 4)",
-                                "classList":
-                                  [
-                                    {
-                                      "dayOfWeek": "Tuesday",
-                                      "startTime": "09:50",
-                                      "endTime": "12:30"
-                                    }
-                                  ],
-                                "color": "#662248"
-                              } // End of Section SII
                             ],
                           "note": "2nd semester (required)"
                         } // End of Course DCF255
